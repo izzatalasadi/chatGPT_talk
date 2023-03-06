@@ -68,8 +68,7 @@ def voice_text(language):
 def selenium_translate(text, language):
 
     s = Service(ChromeDriverManager().install())
-    # Connecting with translate.google.com for reading the tweets..
-
+    # Connecting with translate.google.com 
     url = 'https://translate.google.com/'
 
     # launch browser with selenium:=>
