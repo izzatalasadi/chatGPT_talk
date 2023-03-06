@@ -6,5 +6,5 @@ Python script that makes use of several libraries such as speech_recognition, py
 
 ## API key
 * add your openAi api key to the script
-    openai.api_key = "add api key in here"
+        openai.api_key = "add api key in here"
     
